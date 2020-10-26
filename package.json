@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-sms-retriever-manager",
-  "version": "1.0.2",
+  "name": "@awais-vteams/cordova-plugin-sms-retriever-manager",
+  "version": "1.0.3",
   "description": "Cross-platform plugin for Cordova / PhoneGap to to easily retrive SMS using Google SMS retriver API. Available for Android.",
   "cordova": {
     "id": "cordova-plugin-sms-retriever-manager",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hanatharesh2712/ionic-native-sms-retriever-plugin-master.git"
+    "url": "https://github.com/awais-vteams/ionic-native-sms-retriever-plugin-master.git"
   },
   "keywords": [
     "cordova",
@@ -25,10 +25,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Haresh Hanat",
+  "author": "Awais",
   "license": "DEV",
   "bugs": {
-    "url": "https://github.com/hanatharesh2712/ionic-native-sms-retriever-plugin-master/issues"
+    "url": "https://github.com/awais-vteams/ionic-native-sms-retriever-plugin-master/issues"
   },
-  "homepage": "https://github.com/hanatharesh2712/ionic-native-sms-retriever-plugin-master"
+  "homepage": "https://github.com/awais-vteams/ionic-native-sms-retriever-plugin-master"
 }
